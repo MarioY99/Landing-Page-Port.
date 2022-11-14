@@ -1,0 +1,20 @@
+{
+  "name": "landing-page-port.",
+  "version": "1.0.0",
+  "description": "Creating a landing page for practice with async functions to call APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarioY99/Landing-Page-Port..git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarioY99/Landing-Page-Port./issues"
+  },
+  "homepage": "https://github.com/MarioY99/Landing-Page-Port.#readme"
+}
